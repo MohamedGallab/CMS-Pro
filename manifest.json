@@ -1,6 +1,6 @@
 {
     "name": "CMS pro",
-    "description": "Better GUC CMS experience",
+    "description": "A Better GUC CMS experience",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
@@ -8,19 +8,11 @@
     },
     "options_page": "options.html",
     "permissions": [
-        "storage",
-        "activeTab",
         "scripting"
     ],
-    "action": {
-        "default_popup": "popup.html",
-        "default_icon": {
-            "16": "/images/icon16.png",
-            "32": "/images/icon32.png",
-            "48": "/images/icon48.png",
-            "128": "/images/icon128.png"
-        }
-    },
+    "host_permissions": [
+        "https://cms.guc.edu.eg/*"
+    ],
     "icons": {
         "16": "/images/icon16.png",
         "32": "/images/icon32.png",

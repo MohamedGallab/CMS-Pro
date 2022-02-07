@@ -20,9 +20,8 @@
 ![Install](https://i.ibb.co/64fW0vj/CMS-pro-install.png)
 
 ## Usage
-Just click on the extension once you are on the CMS page and click on the "Do magic" button
+Press Download on your favorite course material
 
-![Usage](https://i.ibb.co/vYdhGS7/CMS-pro-screenshot.png)
 ## Authors
 - [Mohamed Gallab](https://github.com/MohamedGallab)
 - [Yousef Allam](https://github.com/YousefAllam221b)

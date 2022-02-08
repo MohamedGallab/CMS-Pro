@@ -1,6 +1,6 @@
 {
     "name": "CMS pro",
-    "description": "A Better GUC CMS experience",
+    "description": "A Better GUC CMS experience, renames files to correct names when downloaded",
     "version": "1.0",
     "manifest_version": 3,
     "background": {

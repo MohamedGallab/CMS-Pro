@@ -21,6 +21,3 @@
 
 ## Usage
 Press Download on your favorite course material
-
-## Authors
-- [Mohamed Gallab](https://github.com/MohamedGallab)

@@ -1,5 +1,5 @@
 # CMS-Pro
-> a google chrome extension that adds extra functionality to the CMS platform of the German Univeristy in Cairo
+a google chrome extension that adds extra functionality to the CMS platform of the German Univeristy in Cairo
 
 ## Table of Contents
 * [General Info](#general-information)

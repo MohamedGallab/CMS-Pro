@@ -7,7 +7,7 @@ A google chrome extension that automatically renames all files downloaded from t
  ![Download](https://github.com/MohamedGallab/CMS-Pro/assets/74183135/05581d77-593f-4dbe-81db-27631a332184)
    
 2. Unzip the downloaded file.
-3. Open the Extension Management page by navigating to <chrome://extensions>
+3. Open the Extension Management page by navigating to `chrome://extensions`
    - Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu. 
    - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
 

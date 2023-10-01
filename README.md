@@ -1,15 +1,15 @@
 # CMS-Pro
-A google chrome extension that automatically renames all files downloaded from the CMS platform of the German Univeristy in Cairo
+A google chrome extension that automatically renames all files downloaded from the CMS platform of the [German Univeristy in Cairo](https://www.guc.edu.eg/).
 
-## installation
-1. download the file 
+## Installation
+1. Download the zipped file.
 
  ![Download](https://github.com/MohamedGallab/CMS-Pro/assets/74183135/05581d77-593f-4dbe-81db-27631a332184)
    
-2. Unzip
-3. Open the Extension Management page by navigating to chrome://extensions. 
+2. Unzip the downloaded file.
+3. Open the Extension Management page by navigating to <chrome://extensions>
    - Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu. 
-   - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
+   - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
 
 4. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 

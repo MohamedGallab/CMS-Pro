@@ -1,14 +1,5 @@
 # CMS-Pro
-a google chrome extension that adds extra functionality to the CMS platform of the German Univeristy in Cairo
-
-## Table of Contents
-* [General Info](#general-information)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Authors](#authors)
-
-## General Information
-- Automatically renames all files downloaded
+a google chrome extension that automatically renames all files downloaded from the CMS platform of the German Univeristy in Cairo
 
 ## installation
 1. download the file 

@@ -21,6 +21,11 @@
       "js": ["scripts/content.js"],
       "run_at": "document_end",
       "matches": ["https://cms.guc.edu.eg/*"]
+    },
+    {
+      "js": ["scripts/eval.js"],
+      "run_at": "document_end",
+      "matches": ["https://apps.guc.edu.eg/student_ext/Evaluation/EvaluateStaff.aspx"]
     }
   ]
 }
